@@ -71,10 +71,7 @@ function notice_wc_city_select_activate() {
                 'جنين',
                 'طولكرم'
             ),
-            'PS0' => array(
-                'القدس',
-                'رام الله'
-            ),
+            
         );
         return $cities;
     }
