@@ -2,11 +2,11 @@
     /*
     * Plugin Name: Palestine States for woocommerce
     * Author: Nourelhouda MAANDOUCHE
-    * Plugin URI: https://github.com/NourelhoudaMaan/Palestine-states-and-cities-for-Woocommerce/blob/main/palestine_cities.php
+    * Plugin URI: https://github.com/NourelhoudaMaan/Palestine-states-and-cities-for-Woocommerce/
     * Author URI: https://github.com/NourelhoudaMaan/
     * Description: Add Palestine's States to woocommerce / إضافة المحافظات الفلسطينية إلى الووكومرس
     * Version: 0.1.0
-    * License: GPL2 or later
+    * License: MIT
     * License URL: https://choosealicense.com/licenses/mit/
     * text-domain: states-and-cities-for-woocommerce
     */
